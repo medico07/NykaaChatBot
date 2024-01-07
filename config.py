@@ -9,28 +9,20 @@ API_HASH = getenv("API_HASH", "b463bedd791aa733ae2297e6520302fe")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = int(getenv("OWNER_ID", "6204761408"))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "samuelsfriends")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "AbhiModszYT_Return")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "AM_YTBott")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "THE_FRIENDZ")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "ROY_EDITX")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "AFK_MR_ROY")
 
 # Random Start Images
 IMG = [
-    "https://telegra.ph/file/00eb565274ccbffcf149d.jpg",
-    "https://telegra.ph/file/396e2af77c4664164de18.jpg",
-    "https://telegra.ph/file/6f92a0e943d68a15169c0.jpg",
-    "https://telegra.ph/file/d49fbf4c00f839641afe3.jpg",
-    "https://telegra.ph/file/cdcdceb3d4fc34675b815.jpg",
-    "https://telegra.ph/file/cc6259af790c13f98c38c.jpg",
-    "https://telegra.ph/file/ffa18225730df716d3532.jpg",
-    "https://telegra.ph/file/dc051f4160954159675a2.jpg",
-    "https://telegra.ph/file/e0e0a3f2addbf58b943e8.jpg",
-    "https://telegra.ph/file/2e6d9db59c537c4521440.jpg",
-    "https://telegra.ph/file/f1951920bbd57921d8820.jpg",
-    "https://telegra.ph/file/ece475f9a419442c18f1d.jpg",
-    "https://telegra.ph/file/99a0014129f08eb1a44dc.jpg",
-    "https://telegra.ph/file/ac8e3751509cf4e1b4756.jpg",
-    "https://telegra.ph/file/e07ef19b1f9bbde9909ad.jpg",
-    "https://telegra.ph/file/d3ee41261ed7779f30a89.jpg",
+    "https://graph.org/file/f86b71018196c5cfe7344.jpg",
+    "https://graph.org/file/a3db9af88f25bb1b99325.jpg",
+    "https://graph.org/file/5b344a55f3d5199b63fa5.jpg",
+    "https://graph.org/file/84de4b440300297a8ecb3.jpg",
+    "https://graph.org/file/84e84ff778b045879d24f.jpg",
+    "https://graph.org/file/a4a8f0e5c0e6b18249ffc.jpg",
+    "https://graph.org/file/ed92cada78099c9c3a4f7.jpg",
+    "https://graph.org/file/d6360613d0fa7a9d2f90b.jpg",
 ]
 
 
