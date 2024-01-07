@@ -30,19 +30,19 @@ IMG = [
 STICKER = [
     "CAACAgEAAxkBAAIJomRdLhVJVebkx0JRsp1STwTv3t3eAAJrAgAClpxhRD4z4bgqlIF0LwQ",
     "CAACAgUAAxkBAAIJo2RdLhjLjCpmPipMT8ksrqwUjGAIAAK1BQACLZ8oVFVNmhalU8eOLwQ",
-    "CAACAgUAAxkBAAIJpGRdLkpU7t2WDj9zUFgCJ5uHUdGHAALTBAAC59CYV3t9x-f0tt4OLwQ",
+    "CAACAgUAAx0CekRwCQADYWWaUnQ2oJqJLbDTZgZbXRT58wuqAAKECgACkgnhVLC0s4joaxF4HgQ",
 ]
 
 
 EMOJIOS = [
-    "🎲",
-    "🔥",
-    "⚡️",
-    "⛈",
-    "🌩",
-    "🌦",
-    "☀️",
-    "💫",
-    "🐳",
-    "🦑",
+    "❤️",
+    "🧡",
+    "💛",
+    "💚",
+    "💙",
+    "💜",
+    "🤎",
+    "🖤",
+    "🤍",
+    "♥️",
 ]
