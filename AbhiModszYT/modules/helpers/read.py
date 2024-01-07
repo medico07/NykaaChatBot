@@ -13,9 +13,9 @@ TOOLS_DATA_READ = f"""
 CHATBOT_READ = f"""
 ๏** ᴄᴏᴍᴍᴀɴᴅ ғᴏʀ {BOT_NAME} !\n\n๏ ᴜsᴇ /chatbot ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ .\n\n๏ ᴍᴀᴅᴇ ʙʏ ➛ [ʀᴏʏ-ᴇᴅɪᴛx](https://t.me/roy_editx)**"""
 
-SOURCE_READ = f"**𝙃𝙚𝙡𝙡𝙤 𝘿𝙚𝙖𝙧\n 𝙎𝙤𝙪𝙧𝙘𝙚 𝘾𝙤𝙙𝙚 𝙊𝙁 [{BOT_NAME}](https://t.me/{BOT_USERNAME}).**\n**𝙋𝙡𝙨 𝙁𝙤𝙧𝙠 𝙏𝙝𝙚 𝙍𝙚𝙥𝙤 & 𝙂𝙞𝙫𝙚 𝙎𝙩𝙖𝙧 ✯**\n**──────────────────**\n** 𝙃𝙚𝙧𝙚 𝙄𝙨 [𝙎𝙤𝙪𝙧𝙘𝙚 𝘾𝙤𝙙𝙚](https://github.com/AbhiModszYT/chat-bot)**\n**──────────────────**\n**𝙄𝙛 𝙔𝙤𝙪 𝙁𝙖𝙘𝙚𝙞𝙣𝙜 𝘼𝙣𝙮 𝙋𝙧𝙤𝙗𝙡𝙚𝙢 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚 [𝗔𝗠𝗕𝗢𝗧](https://t.me/AM_YTBOTT).\n\n\n<b>||𝘽𝙤𝙩 𝙊𝙬𝙣𝙚𝙧 : @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**๏ ᴀᴀ ɢʏᴀ ʀᴇᴘᴏ ʟᴇɴᴇ ʙᴏsᴅᴋ, ʏᴇ ᴠɪᴅᴇᴏ ᴅᴇᴋʜ ᴀᴜʀ ᴀᴘɴɪ ʀᴇᴘᴏ ʟᴇɴᴇ ᴋɪ ᴀᴀɢ ʙʜᴜᴊʜᴀ.**\n\n๏ https://x-hd.video/video/-aubree-valentine-switch-roles-fta-reality-kings.html "
 
-ADMIN_READ = f"𝙎𝙤𝙤𝙣"
+ADMIN_READ = f"**sᴏᴏɴ**"
 
 ABOUT_READ = f"""
 ๏** [{BOT_NAME}](https://t.me/{BOT_USERNAME}) , ᴛʜɪs ɪs ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛ ʙᴏᴛ.\n\n๏ ʀᴇᴘʟʏ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴛᴏ ᴜsᴇʀs.\n\n๏ ʜᴇʟᴘ ʏᴏᴜ ғᴏʀ ᴀᴄᴛɪᴠᴇ ʏᴏᴜʀ ᴄʜᴀᴛ ɢʀᴏᴜᴘ.\n\n๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ʙᴀsɪᴄ ʜᴇʟᴘ ᴀɴᴅ ɪɴғᴏ ᴄᴍᴅs ᴏғ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) .**"""
