@@ -31,11 +31,11 @@ async def start(_, m: Message):
             text=random.choice(EMOJIOS),
         )
         await asyncio.sleep(1.3)
-        await accha.edit("ꨄ︎ 𝘽𝙤𝙤𝙩𝙞𝙣𝙜....")
+        await accha.edit("❤️")
         await asyncio.sleep(0.2)
-        await accha.edit("ꨄ︎ 𝘽𝙤𝙤𝙩𝙞𝙣𝙜..")
+        await accha.edit("💚")
         await asyncio.sleep(0.2)
-        await accha.edit("ꨄ︎ 𝘽𝙤𝙤𝙩𝙞𝙣𝙜....")
+        await accha.edit("💙")
         await asyncio.sleep(0.2)
         await accha.delete()
         umm = await m.reply_sticker(sticker=random.choice(STICKER))
@@ -43,7 +43,7 @@ async def start(_, m: Message):
         await umm.delete()
         await m.reply_photo(
             photo=random.choice(IMG),
-            caption=f"""**𝙃𝙚𝙡𝙡𝙤 𝙄'𝙢 {BOT_NAME}**\n**𝘼𝙞 𝘽𝙖𝙨𝙚 𝘾𝙝𝙖𝙩 𝘽𝙤𝙩.\n𝙄 𝘾𝙖𝙣 𝙃𝙚𝙡𝙥 𝙐 𝙁𝙤𝙧 𝘼𝙘𝙩𝙞𝙫𝙚 𝙔𝙤𝙪𝙧 𝘾𝙝𝙖𝙩 𝙂𝙧𝙤𝙪𝙥.\n𝙄 𝘾𝙖𝙣 𝙒𝙤𝙧𝙠 24𝙭7.\n𝙑𝙚𝙧𝙮 𝙋𝙤𝙬𝙚𝙧 𝙁𝙪𝙡𝙡 𝘼𝙞.\n𝘼𝙙𝙙 𝙈𝙚 𝙄𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥.**\n**──────────────**\n****\n**──────────────**\n**𝙐𝙨𝙚 /chatbot [on/off]**\n<b>||𝙁𝙤𝙧 /help ||</b>""",
+            caption=f"""**๏ ʜᴇʏ ʙᴀʙʏ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ᴜʜʜ... !**\n\n๏ **ɪ ᴀᴍ {BOT_NAME} , ᴀɪ ʙᴀsᴇ ᴄʜᴀᴛʙᴏᴛ.**\n\n๏ **ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ғᴏʀ ᴀᴄᴛɪᴠᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ.**\n\n๏ **ᴜsᴇ ᴍᴇ /chatbot on/off ᴀɴᴅ ғᴏʀ ᴍᴏʀᴇ /help ...**""",
             reply_markup=InlineKeyboardMarkup(DEV_OP),
         )
         await add_served_user(m.from_user.id)
