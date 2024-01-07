@@ -2,16 +2,7 @@ from config import OWNER_USERNAME, SUPPORT_GRP
 from AbhiModszYT import BOT_NAME, BOT_USERNAME
 
 START = f"""
-**𝙃𝙚𝙡𝙡𝙤 𝙄'𝙢[{BOT_NAME}](t.me/{BOT_USERNAME})**
-**𝘼𝙞 𝘽𝙖𝙨𝙚 𝘾𝙝𝙖𝙩 𝘽𝙤𝙩**
-**𝙄 𝘾𝙖𝙣 𝙃𝙚𝙡𝙥 𝙐 𝙁𝙤𝙧 𝘼𝙘𝙩𝙞𝙫𝙚 𝙔𝙤𝙪𝙧 𝘾𝙝𝙖𝙩 𝙂𝙧𝙤𝙪𝙥**
-**𝙄 𝘾𝙖𝙣 𝙒𝙤𝙧𝙠 24𝙭7**
-**𝙑𝙚𝙧𝙮 𝙋𝙤𝙬𝙚𝙧 𝙁𝙪𝙡𝙡 𝘼𝙞**
-**𝘼𝙙𝙙 𝙈𝙚 𝙄𝙣 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥**
-**──────────────**
-** 𝙐𝙨𝙚 /chatbot on/off**
-<b>||𝙁𝙤𝙧 /help ||</b>
-"""
+๏ **ʜᴇʏ ʙᴀʙʏ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ᴜʜʜ... !\n\n๏ ɪ ᴀᴍ [{BOT_NAME}](t.me/{BOT_USERNAME}) , ᴀɪ ʙᴀsᴇ ᴄʜᴀᴛʙᴏᴛ.\n\n๏ ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ғᴏʀ ᴀᴄᴛɪᴠᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ.\n\n๏ ᴜsᴇ ᴍᴇ /chatbot on/off ᴀɴᴅ ғᴏʀ ᴍᴏʀᴇ /help !**"""
 
 HELP_READ = f"""
 <u>**𝘾𝙈𝘿𝙎 𝙁𝙤𝙧 {BOT_NAME}**</u>
