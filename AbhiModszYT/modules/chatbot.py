@@ -17,7 +17,7 @@ from AbhiModszYT.modules.helpers import CHATBOT_ON, is_admins
 @is_admins
 async def chaton_off(_, m: Message):
     await m.reply_text(
-        f"ᴄʜᴀᴛ: {m.chat.id}\n**𝙋𝙡𝙨 𝘾𝙝𝙤𝙤𝙨𝙚 𝘼𝙣𝙮 𝙊𝙣𝙚 𝙊𝙥𝙩𝙞𝙤𝙣 𝙏𝙤 𝙀𝙣𝙖𝙗𝙡𝙚 / 𝘿𝙞𝙨𝙖𝙗𝙡𝙚 𝘾𝙝𝙖𝙩 𝘽𝙤𝙩.**",
+        f"๏ ᴄʜᴀᴛ: {m.chat.id}\n\n**๏ ᴘʟᴢ ᴄʜᴏᴏsᴇ ᴀɴʏ ᴏɴᴇ ᴏᴘᴛɪᴏɴ ᴛᴏ ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ ᴄʜᴀᴛ ʙᴏᴛ.**",
         reply_markup=InlineKeyboardMarkup(CHATBOT_ON),
     )
     return
