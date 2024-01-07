@@ -1,7 +1,7 @@
 {
-  "name": "NYKAACHATBOT",
+  "name": "NYKAABOT",
   "description": "A telegram bot",
-  "logo": "https://graph.org/file/84e84ff778b045879d24f.jpg",
+  "logo": "https://telegra.ph/file/00eb565274ccbffcf149d.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -16,12 +16,12 @@
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": "6435225"
+      "value": ""
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": "4e984ea35f854762dcde906dce426c2d"
+      "value": ""
     },
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
@@ -31,7 +31,7 @@
     "MONGO_URL": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
       "required": true,
-      "value": "mongodb+srv://Bikash:Bikashop@bikash.cbkkx4c.mongodb.net/?retryWrites=true&w=majority"
+      "value": ""
     },
     "OWNER_ID": {
       "description": "User id of the user who will known as owner of the bot.",
