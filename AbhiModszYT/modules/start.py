@@ -68,7 +68,7 @@ async def help(client: AMBOT, m: Message):
     else:
         await m.reply_photo(
             photo=random.choice(IMG),
-            caption="**𝙃𝙚𝙡𝙡𝙤 𝘽𝙪𝙙𝙙𝙮\n 𝙋𝙡𝙨 𝙐𝙨𝙚 𝙈𝙚 𝙄𝙣 𝙋𝙫𝙩 𝙁𝙤𝙧 𝙃𝙚𝙡𝙥 𝘾𝙈𝘿𝙎!**",
+            caption="**๏ ʜᴇʏ ʙᴀʙʏ...\n\n๏ ᴘʟᴢ ᴜsᴇ ᴍᴇ ɪɴ ᴘᴠᴛ. ғᴏʀ ʜᴇʟᴏ ᴄᴍᴅs..!**",
             reply_markup=InlineKeyboardMarkup(HELP_BUTN),
         )
         await add_served_chat(m.chat.id)
