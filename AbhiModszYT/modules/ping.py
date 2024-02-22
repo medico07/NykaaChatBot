@@ -30,7 +30,7 @@ async def ping(_, message: Message):
 
     ms = (datetime.now() - start).microseconds / 1000
     await loda.edit_text(
-        text=f"**๏ ʜᴇʏ ʙᴀʙʏ..!\n\n๏ {BOT_NAME} ɪs ᴀʟɪᴠᴇ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ.\n\n๏ ᴘɪɴɢ ᴘᴏɴɢ ➥ `{ms}` ᴍs\n\n๏ ᴍᴀᴅᴇ ʙʏ ➛ [ʀᴏʏ-ᴇᴅɪᴛx](https://t.me/{OWNER_USERNAME}) !**",
+        text=f"**๏ ʜᴇʏ ʙᴀʙʏ..!\n\n๏ {BOT_NAME} ɪs ᴀʟɪᴠᴇ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ.\n\n๏ ᴘɪɴɢ ᴘᴏɴɢ ➥ `{ms}` ᴍs\n\n๏ ᴍᴀᴅᴇ ʙʏ ➛ [๛s ɪ ɴ ᴇ ᴡ ʏ ₰ ](https://t.me/{OWNER_USERNAME}) !**",
         reply_markup=InlineKeyboardMarkup(PNG_BTN),
     )
     if message.chat.type == ChatType.PRIVATE:
