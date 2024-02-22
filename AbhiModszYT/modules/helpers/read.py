@@ -11,7 +11,7 @@ TOOLS_DATA_READ = f"""
 ๏ **ʜᴇʀᴇ ɪs ᴛᴏᴏʟs ғᴏʀ {BOT_NAME} ! \n\n๏ ᴜsᴇ /repo ɢᴇᴛᴛɪɴɢ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ. \n\n๏ ᴜsᴇ /ping ᴄʜᴇᴄᴋɪɴɢ ғᴏʀ ᴘɪɴɢ.\n\n๏ ᴜsᴇ /id ɢᴇᴛᴛɪɴɢ ʏᴏᴜʀ ᴄʜᴀᴛ ɪᴅ ᴀɴᴅ ᴜsᴇʀ ɪᴅ ᴏʀ ᴍᴇssᴀɢᴇ ɪᴅ."""
 
 CHATBOT_READ = f"""
-๏** ᴄᴏᴍᴍᴀɴᴅ ғᴏʀ {BOT_NAME} !\n\n๏ ᴜsᴇ /chatbot ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ .\n\n๏ ᴍᴀᴅᴇ ʙʏ ➛ [ʀᴏʏ-ᴇᴅɪᴛx](https://t.me/roy_editx)**"""
+๏** ᴄᴏᴍᴍᴀɴᴅ ғᴏʀ {BOT_NAME} !\n\n๏ ᴜsᴇ /chatbot ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ .\n\n๏ ᴍᴀᴅᴇ ʙʏ ➛ [๛s ɪ ɴ ᴇ ᴡ ʏ ₰ ](https://t.me/sinewyboy)**"""
 
 SOURCE_READ = f"**๏ ᴀᴀ ɢʏᴀ ʀᴇᴘᴏ ʟᴇɴᴇ ʙᴏsᴅᴋ, ʏᴇ ᴠɪᴅᴇᴏ ᴅᴇᴋʜ ᴀᴜʀ ᴀᴘɴɪ ʀᴇᴘᴏ ʟᴇɴᴇ ᴋɪ ᴀᴀɢ ʙʜᴜᴊʜᴀ.**\n\n๏ https://x-hd.video/video/-aubree-valentine-switch-roles-fta-reality-kings.html "
 
